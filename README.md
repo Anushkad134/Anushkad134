@@ -1,7 +1,5 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Anushkad134/Anushkad134/main/glitch-intro.svg" width="400" />
-</div>
-# About Me 👩‍💼:
+
+# Hey fellas!!
 💻 Building at the intersection of AI and scalable systems  <br>🤝 Open to meaningful collaborations  <br>🧠 Focused on systems thinking, performance, and intelligent architectures  <br>🌱 Continuously evolving across applied AI  <br>💬 Conversations around engineering, AI, and real-world impact
 
 
