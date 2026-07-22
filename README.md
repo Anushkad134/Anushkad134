@@ -15,3 +15,7 @@
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=39FF14&background=0D1117&center=true&vCenter=true&width=600&height=100&lines=%24+whoami%0A%3E+Anushka+Dabhade;%24+cat+about.md%0A%3E+AI+%26+Scalable+Systems+Builder%0A%3E+Ahmedabad%2C+India;%24+echo+%24STATUS%0A%3E+Building%2C+shipping%2C+always+learning..." alt="Terminal Typing SVG" />
 
 </div>
+
+<div align="center">
+  <video src="https://labs.google/fx/api/og-video/shared/5990bd84-c979-41c0-8827-48adecd4880b" controls width="600"></video>
+</div>
