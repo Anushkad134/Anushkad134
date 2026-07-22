@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Anushkad134/Anushkad134/main/glitch-intro.svg" width="400" />
+</div>
 # About Me 👩‍💼:
 💻 Building at the intersection of AI and scalable systems  <br>🤝 Open to meaningful collaborations  <br>🧠 Focused on systems thinking, performance, and intelligent architectures  <br>🌱 Continuously evolving across applied AI  <br>💬 Conversations around engineering, AI, and real-world impact
 
@@ -12,10 +15,12 @@
 
 **`🔴 🟡 🟢  anushka@root:~`**
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=39FF14&background=0D1117&center=true&vCenter=true&width=600&height=100&lines=%24+whoami%0A%3E+Anushka+Dabhade;%24+cat+about.md%0A%3E+AI+%26+Scalable+Systems+Builder%0A%3E+Ahmedabad%2C+India;%24+echo+%24STATUS%0A%3E+Building%2C+shipping%2C+always+learning..." alt="Terminal Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=39FF14&background=0D1117&center=true&vCenter=true&width=600&height=100&lines=%24+whoami%0A%3E+Anushka+Dabhade;%24+cat+about.md%0A%3E+Builder.+Researcher.+Explorer.%0A%3E+Ahmedabad%2C+India;%24+echo+%24STATUS%0A%3E+Building%2C+shipping%2C+always+learning..." alt="Terminal Typing SVG" />
 
 </div>
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <div align="center">
   <img src="https://github.com/user-attachments/assets/15f56ebc-b014-4dea-a90f-ae5da5ab313f" width="600" />
 </div>
