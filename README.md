@@ -17,5 +17,5 @@
 </div>
 
 <div align="center">
-  <video src="https://labs.google/fx/api/og-video/shared/5990bd84-c979-41c0-8827-48adecd4880b" controls width="600"></video>
+  <video src="[https://labs.google/fx/api/og-video/shared/5990bd84-c979-41c0-8827-48adecd4880b](https://raw.githubusercontent.com/Anushkad134/attendance-automation-ai/main/Girl_typing_holographic_keyboard_202607230047.mp4)" controls width="600"></video>
 </div>
