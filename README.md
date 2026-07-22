@@ -17,5 +17,5 @@
 </div>
 
 <div align="center">
-  <video src="https://github.com/user-attachments/assets/885fe2d0-98c2-42f8-8edb-17e2087342da" controls width="600"></video>
+  <video src="https://github.com/user-attachments/assets/885fe2d0-98c2-42f8-8edb-17e2087342da" autoplay loop muted playsinline width="600" style="border:none;"></video>
 </div>
