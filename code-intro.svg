@@ -1,0 +1,40 @@
+<svg width="850" height="110" viewBox="0 0 850 110" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Prata&display=swap');
+    </style>
+  </defs>
+  <rect x="0" y="0" width="850" height="110" fill="#0D1117"/>
+
+  <!-- violet glitch layer -->
+  <text x="60" y="65" font-family="'Prata', 'Cormorant Garamond', serif" font-size="26" fill="#a66dd4" opacity="0.7">
+    &gt; Hi there! probably brewing something right now 🍸
+    <animateTransform attributeName="transform" type="translate"
+      values="7,-2; -6,3; 5,-3; -4,2; 3,-1; 0,0; 0,0; 0,0"
+      keyTimes="0;0.03;0.06;0.09;0.12;0.15;0.9;1"
+      dur="3.5s" repeatCount="indefinite" calcMode="discrete"/>
+  </text>
+
+  <!-- magenta glitch layer -->
+  <text x="60" y="65" font-family="'Prata', 'Cormorant Garamond', serif" font-size="26" fill="#ff5fd6" opacity="0.6">
+    &gt; Hi there! probably brewing something right now 🍸
+    <animateTransform attributeName="transform" type="translate"
+      values="-8,3; 6,-4; -5,2; 4,-2; -2,1; 0,0; 0,0; 0,0"
+      keyTimes="0;0.03;0.06;0.09;0.12;0.15;0.9;1"
+      dur="3.5s" repeatCount="indefinite" calcMode="discrete"/>
+  </text>
+
+  <!-- main settled dark purple text -->
+  <text x="60" y="65" font-family="'Prata', 'Cormorant Garamond', serif" font-size="26" fill="#5D1A8B">
+    &gt; Hi there! probably brewing something right now 🍸
+    <animate attributeName="opacity"
+      values="0.2;0.9;0.3;1;0.4;1;1;1"
+      keyTimes="0;0.03;0.06;0.09;0.12;0.15;0.9;1"
+      dur="3.5s" repeatCount="indefinite" calcMode="discrete"/>
+  </text>
+
+  <!-- blinking terminal cursor -->
+  <rect x="770" y="45" width="12" height="26" fill="#5D1A8B">
+    <animate attributeName="opacity" values="1;1;0;0" dur="1.2s" repeatCount="indefinite"/>
+  </rect>
+</svg>
