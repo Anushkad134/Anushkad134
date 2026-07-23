@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Cinzel+Decorative&weight=700&size=24&pause=1500&color=B267E6&background=0D1117&center=true&vCenter=true&width=850&height=80&lines=Hi+there!+probably+brewing+something+right+now+%F0%9F%8D%B8" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/Anushkad134/Anushkad134/main/magic-intro.svg" width="850" />
 </div>
 
 💻 Building at the intersection of AI and scalable systems  <br>🤝 Open to meaningful collaborations  <br>🧠 Focused on systems thinking, performance, and intelligent architectures  <br>🌱 Continuously evolving across applied AI  <br>💬 Conversations around engineering, AI, and real-world impact
