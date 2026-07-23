@@ -1,43 +1,6 @@
-<svg width="850" height="110" viewBox="0 0 850 110" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <style>
-      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@700&display=swap');
-    </style>
-  </defs>
-  <rect x="0" y="0" width="850" height="110" fill="#0D1117"/>
-
-  <!-- cyan glitch layer -->
-  <text x="60" y="62" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="24" font-weight="700" fill="#4fd6ff" opacity="0.7">
-    &gt; Hi there! probably brewing something right now 🍸
-    <animateTransform attributeName="transform" type="translate"
-      values="7,-2; -6,3; 5,-3; -4,2; 3,-1; 0,0; 0,0; 0,0"
-      keyTimes="0;0.03;0.06;0.09;0.12;0.15;0.9;1"
-      dur="3.5s" repeatCount="indefinite" calcMode="discrete"/>
-  </text>
-
-  <!-- red glitch layer -->
-  <text x="60" y="62" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="24" font-weight="700" fill="#ff2e63" opacity="0.7">
-    &gt; Hi there! probably brewing something right now 🍸
-    <animateTransform attributeName="transform" type="translate"
-      values="-8,3; 6,-4; -5,2; 4,-2; -2,1; 0,0; 0,0; 0,0"
-      keyTimes="0;0.03;0.06;0.09;0.12;0.15;0.9;1"
-      dur="3.5s" repeatCount="indefinite" calcMode="discrete"/>
-  </text>
-
-  <!-- main settled terminal-green text -->
-  <text x="60" y="62" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="24" font-weight="700" fill="#39FF14">
-    &gt; Hi there! probably brewing something right now 🍸
-    <animate attributeName="opacity"
-      values="0.2;0.9;0.3;1;0.4;1;1;1"
-      keyTimes="0;0.03;0.06;0.09;0.12;0.15;0.9;1"
-      dur="3.5s" repeatCount="indefinite" calcMode="discrete"/>
-  </text>
-
-  <!-- blinking terminal cursor -->
-  <rect x="782" y="42" width="14" height="26" fill="#39FF14">
-    <animate attributeName="opacity" values="1;1;0;0" dur="1.2s" repeatCount="indefinite"/>
-  </rect>
-</svg>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Anushkad134/Anushkad134/main/code-intro.svg" width="850" />
+</div>
 
 💻 Building at the intersection of AI and scalable systems  <br>🤝 Open to meaningful collaborations  <br>🧠 Focused on systems thinking, performance, and intelligent architectures  <br>🌱 Continuously evolving across applied AI  <br>💬 Conversations around engineering, AI, and real-world impact
 
