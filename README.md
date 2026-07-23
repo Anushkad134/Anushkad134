@@ -1,50 +1,7 @@
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Quicksand&weight=700&size=26&pause=1500&color=E2C290&background=0D1117&center=true&vCenter=true&width=600&height=70&lines=Hi+there!+probably+brewing+something+right+now+%F0%9F%8D%B8" alt="Typing SVG" />
+</div>
 
-<svg width="600" height="100" viewBox="0 0 600 100" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="shimmer" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#b06ab3"/>
-      <stop offset="25%" stop-color="#e2c290"/>
-      <stop offset="50%" stop-color="#ffffff"/>
-      <stop offset="75%" stop-color="#e2c290"/>
-      <stop offset="100%" stop-color="#b06ab3"/>
-      <animateTransform attributeName="gradientTransform" type="translate"
-        values="-600,0; 600,0" dur="4s" repeatCount="indefinite"/>
-    </linearGradient>
-
-    <g id="star">
-      <path d="M0,-6 L1.5,-1.5 L6,0 L1.5,1.5 L0,6 L-1.5,1.5 L-6,0 L-1.5,-1.5 Z" fill="#ffe9a8"/>
-    </g>
-  </defs>
-
-  <rect x="0" y="0" width="600" height="100" fill="#0D1117"/>
-
-  <text x="300" y="58" text-anchor="middle" font-family="Georgia, 'Segoe UI', serif" font-size="24" font-weight="600" fill="url(#shimmer)">
-    Hi there! probably brewing something right now 🍸
-  </text>
-
-  <!-- twinkling sparkles scattered around the text -->
-  <use href="#star" x="40" y="25" transform="scale(0.7)">
-    <animate attributeName="opacity" values="0;1;0" dur="2.2s" begin="0s" repeatCount="indefinite"/>
-  </use>
-  <use href="#star" x="560" y="30" transform="scale(0.5)">
-    <animate attributeName="opacity" values="0;1;0" dur="1.8s" begin="0.4s" repeatCount="indefinite"/>
-  </use>
-  <use href="#star" x="70" y="75" transform="scale(0.6)">
-    <animate attributeName="opacity" values="0;1;0" dur="2.5s" begin="0.9s" repeatCount="indefinite"/>
-  </use>
-  <use href="#star" x="530" y="70" transform="scale(0.8)">
-    <animate attributeName="opacity" values="0;1;0" dur="2s" begin="1.3s" repeatCount="indefinite"/>
-  </use>
-  <use href="#star" x="300" y="15" transform="scale(0.55)">
-    <animate attributeName="opacity" values="0;1;0" dur="2.1s" begin="0.6s" repeatCount="indefinite"/>
-  </use>
-  <use href="#star" x="20" y="55" transform="scale(0.45)">
-    <animate attributeName="opacity" values="0;1;0" dur="1.6s" begin="1.7s" repeatCount="indefinite"/>
-  </use>
-  <use href="#star" x="580" y="55" transform="scale(0.5)">
-    <animate attributeName="opacity" values="0;1;0" dur="2.3s" begin="1.0s" repeatCount="indefinite"/>
-  </use>
-</svg>
 💻 Building at the intersection of AI and scalable systems  <br>🤝 Open to meaningful collaborations  <br>🧠 Focused on systems thinking, performance, and intelligent architectures  <br>🌱 Continuously evolving across applied AI  <br>💬 Conversations around engineering, AI, and real-world impact
 
 
