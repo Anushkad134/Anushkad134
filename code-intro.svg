@@ -1,13 +1,13 @@
-<svg width="1100" height="140" viewBox="0 0 1100 140" xmlns="http://www.w3.org/2000/svg">
+<svg width="1100" height="180" viewBox="0 0 1100 180" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <style>
       @import url('https://fonts.googleapis.com/css2?family=Prata&amp;display=swap');
     </style>
   </defs>
-  <rect x="0" y="0" width="1100" height="140" fill="#0D1117"/>
+  <rect x="0" y="0" width="1100" height="180" fill="#0D1117"/>
 
   <!-- violet glitch layer -->
-  <text x="60" y="82" font-family="'Prata', 'Cormorant Garamond', serif" font-size="34" fill="#a66dd4" opacity="0.7">
+  <text x="50" y="110" font-family="'Prata', 'Cormorant Garamond', serif" font-size="52" font-weight="bold" fill="#a66dd4" opacity="0.7">
     &gt; Hi there! probably brewing something right now 🍸
     <animateTransform attributeName="transform" type="translate"
       values="7,-2; -6,3; 5,-3; -4,2; 3,-1; 0,0; 0,0; 0,0"
@@ -16,7 +16,7 @@
   </text>
 
   <!-- magenta glitch layer -->
-  <text x="60" y="82" font-family="'Prata', 'Cormorant Garamond', serif" font-size="34" fill="#ff5fd6" opacity="0.6">
+  <text x="50" y="110" font-family="'Prata', 'Cormorant Garamond', serif" font-size="52" font-weight="bold" fill="#ff5fd6" opacity="0.6">
     &gt; Hi there! probably brewing something right now 🍸
     <animateTransform attributeName="transform" type="translate"
       values="-8,3; 6,-4; -5,2; 4,-2; -2,1; 0,0; 0,0; 0,0"
@@ -25,7 +25,7 @@
   </text>
 
   <!-- main settled dark purple text -->
-  <text x="60" y="82" font-family="'Prata', 'Cormorant Garamond', serif" font-size="34" fill="#5D1A8B">
+  <text x="50" y="110" font-family="'Prata', 'Cormorant Garamond', serif" font-size="52" font-weight="bold" fill="#5D1A8B">
     &gt; Hi there! probably brewing something right now 🍸
     <animate attributeName="opacity"
       values="0.2;0.9;0.3;1;0.4;1;1;1"
@@ -34,7 +34,7 @@
   </text>
 
   <!-- blinking terminal cursor -->
-  <rect x="1010" y="55" width="16" height="34" fill="#5D1A8B">
+  <rect x="1015" y="53" width="26" height="55" fill="#5D1A8B">
     <animate attributeName="opacity" values="1;1;0;0" dur="1.2s" repeatCount="indefinite"/>
   </rect>
 </svg>
