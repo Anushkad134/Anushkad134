@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Anushkad134/Anushkad134/main/code-intro.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/Anushkad134/Anushkad134/main/code-intro.svg?v=2" width="100%" />
 </div>
 
 💻 Building at the intersection of AI and scalable systems  <br>🤝 Open to meaningful collaborations  <br>🧠 Focused on systems thinking, performance, and intelligent architectures  <br>🌱 Continuously evolving across applied AI  <br>💬 Conversations around engineering, AI, and real-world impact
