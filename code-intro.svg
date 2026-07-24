@@ -1,40 +1,39 @@
-<svg width="850" height="130" viewBox="0 0 850 130" xmlns="http://www.w3.org/2000/svg">
+<svg width="900" height="170" viewBox="0 0 900 170" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <style>
       @import url('https://fonts.googleapis.com/css2?family=Prata&amp;display=swap');
     </style>
   </defs>
-  <rect x="0" y="0" width="850" height="130" fill="#0D1117"/>
+  <rect x="0" y="0" width="900" height="170" fill="#0D1117"/>
 
-  <!-- violet glitch layer -->
-  <text x="25" y="80" font-family="'Prata', 'Cormorant Garamond', serif" font-size="46" font-weight="bold" fill="#c9a3f0" opacity="0.7">
-    &gt; Hi there! probably brewing something right now 🍸
+  <text x="30" y="70" font-family="'Prata', 'Cormorant Garamond', serif" font-size="34" font-weight="bold" fill="#c9a3f0" opacity="0.7">
+    <tspan x="30" dy="0">&gt; Hi there! probably brewing</tspan>
+    <tspan x="30" dy="1.25em">something right now 🍸</tspan>
     <animateTransform attributeName="transform" type="translate"
-      values="7,-2; -6,3; 5,-3; -4,2; 3,-1; 0,0; 0,0; 0,0"
+      values="6,-2; -5,3; 4,-3; -3,2; 2,-1; 0,0; 0,0; 0,0"
       keyTimes="0;0.03;0.06;0.09;0.12;0.15;0.9;1"
       dur="3.5s" repeatCount="indefinite" calcMode="discrete"/>
   </text>
 
-  <!-- magenta glitch layer -->
-  <text x="25" y="80" font-family="'Prata', 'Cormorant Garamond', serif" font-size="46" font-weight="bold" fill="#ff8fe0" opacity="0.6">
-    &gt; Hi there! probably brewing something right now 🍸
+  <text x="30" y="70" font-family="'Prata', 'Cormorant Garamond', serif" font-size="34" font-weight="bold" fill="#ff8fe0" opacity="0.6">
+    <tspan x="30" dy="0">&gt; Hi there! probably brewing</tspan>
+    <tspan x="30" dy="1.25em">something right now 🍸</tspan>
     <animateTransform attributeName="transform" type="translate"
-      values="-8,3; 6,-4; -5,2; 4,-2; -2,1; 0,0; 0,0; 0,0"
+      values="-7,3; 5,-4; -4,2; 3,-2; -2,1; 0,0; 0,0; 0,0"
       keyTimes="0;0.03;0.06;0.09;0.12;0.15;0.9;1"
       dur="3.5s" repeatCount="indefinite" calcMode="discrete"/>
   </text>
 
-  <!-- main settled light purple text -->
-  <text x="25" y="80" font-family="'Prata', 'Cormorant Garamond', serif" font-size="46" font-weight="bold" fill="#b088e8">
-    &gt; Hi there! probably brewing something right now 🍸
+  <text x="30" y="70" font-family="'Prata', 'Cormorant Garamond', serif" font-size="34" font-weight="bold" fill="#b088e8">
+    <tspan x="30" dy="0">&gt; Hi there! probably brewing</tspan>
+    <tspan x="30" dy="1.25em">something right now 🍸</tspan>
     <animate attributeName="opacity"
       values="0.2;0.9;0.3;1;0.4;1;1;1"
       keyTimes="0;0.03;0.06;0.09;0.12;0.15;0.9;1"
       dur="3.5s" repeatCount="indefinite" calcMode="discrete"/>
   </text>
 
-  <!-- blinking terminal cursor -->
-  <rect x="800" y="52" width="20" height="42" fill="#b088e8">
+  <rect x="500" y="95" width="16" height="34" fill="#b088e8">
     <animate attributeName="opacity" values="1;1;0;0" dur="1.2s" repeatCount="indefinite"/>
   </rect>
 </svg>
