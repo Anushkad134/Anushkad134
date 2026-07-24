@@ -25,8 +25,8 @@
   </text>
 
   <text x="30" y="70" font-family="'Prata', 'Cormorant Garamond', serif" font-size="34" font-weight="bold" fill="#b088e8">
-    <tspan x="30" dy="0">&gt; Hi there! probably brewing</tspan>
-    <tspan x="30" dy="1.25em">something right now 🍸</tspan>
+    <tspan x="30" dy="0">&gt; Hi There! Probably Brewing</tspan>
+    <tspan x="30" dy="1.25em">Something Right Now 🍸</tspan>
     <animate attributeName="opacity"
       values="0.2;0.9;0.3;1;0.4;1;1;1"
       keyTimes="0;0.03;0.06;0.09;0.12;0.15;0.9;1"
