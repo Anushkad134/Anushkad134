@@ -6,34 +6,8 @@
   </defs>
   <rect x="0" y="0" width="900" height="170" fill="#0D1117"/>
 
-  <text x="30" y="70" font-family="'Prata', 'Cormorant Garamond', serif" font-size="34" font-weight="bold" fill="#c9a3f0" opacity="0.7">
-    <tspan x="30" dy="0">&gt; Hi there! probably brewing</tspan>
-    <tspan x="30" dy="1.25em">something right now 🍸</tspan>
-    <animateTransform attributeName="transform" type="translate"
-      values="6,-2; -5,3; 4,-3; -3,2; 2,-1; 0,0; 0,0; 0,0"
-      keyTimes="0;0.03;0.06;0.09;0.12;0.15;0.9;1"
-      dur="3.5s" repeatCount="indefinite" calcMode="discrete"/>
-  </text>
-
-  <text x="30" y="70" font-family="'Prata', 'Cormorant Garamond', serif" font-size="34" font-weight="bold" fill="#ff8fe0" opacity="0.6">
-    <tspan x="30" dy="0">&gt; Hi there! probably brewing</tspan>
-    <tspan x="30" dy="1.25em">something right now 🍸</tspan>
-    <animateTransform attributeName="transform" type="translate"
-      values="-7,3; 5,-4; -4,2; 3,-2; -2,1; 0,0; 0,0; 0,0"
-      keyTimes="0;0.03;0.06;0.09;0.12;0.15;0.9;1"
-      dur="3.5s" repeatCount="indefinite" calcMode="discrete"/>
-  </text>
-
   <text x="30" y="70" font-family="'Prata', 'Cormorant Garamond', serif" font-size="34" font-weight="bold" fill="#b088e8">
-    <tspan x="30" dy="0">&gt; Hi There! Probably Brewing</tspan>
-    <tspan x="30" dy="1.25em">Something Right Now 🍸</tspan>
-    <animate attributeName="opacity"
-      values="0.2;0.9;0.3;1;0.4;1;1;1"
-      keyTimes="0;0.03;0.06;0.09;0.12;0.15;0.9;1"
-      dur="3.5s" repeatCount="indefinite" calcMode="discrete"/>
+    <tspan x="30" dy="0">&gt; Hi there! probably brewing</tspan>
+    <tspan x="30" dy="1.25em">something right now 🍸</tspan>
   </text>
-
-  <rect x="500" y="95" width="16" height="34" fill="#b088e8">
-    <animate attributeName="opacity" values="1;1;0;0" dur="1.2s" repeatCount="indefinite"/>
-  </rect>
 </svg>
