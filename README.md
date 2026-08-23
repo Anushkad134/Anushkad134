@@ -2,7 +2,11 @@
   <img src="https://raw.githubusercontent.com/Anushkad134/Anushkad134/main/code-intro.svg?v=2" width="100%" />
 </div>
 
-💻 Building at the intersection of AI and scalable systems  <br>🤝 Open to meaningful collaborations  <br>🧠 Focused on systems thinking, performance, and intelligent architectures  <br>🌱 Continuously evolving across applied AI  <br>💬 Conversations around engineering, AI, and real-world impact
+-> Hi! I'm Anushka👩🏻‍💻 , a 3rd Year Computer Science Engineering student at New LJ Institute of Engineering, GTU. <br>
+-> I'm interested in Edge AI, TinyML, and building efficient, deployable Machine Learning and working on independent research in model compression for microcontrollers.🖥  <br>
+-> I enjoy hackathons, fast-paced problem-solving, and turning ideas into working systems. Outside of that, I like building immersive, visual 3D web experiences and interesting visuals, it's become a creative outlet alongside the research.🔭🔬🔎  <br>
+-> Always open to research collaborations, internships, and conversations around AI. <br>
+ 📩 anushkadabhade134@gmail.com <br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anushka-dabhade-936b16349) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/anushkadabhade134) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anushkadabhade134@gmail.com)
