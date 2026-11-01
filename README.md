@@ -1,30 +1,46 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Anushkad134/Anushkad134/main/code-intro.svg?v=2" width="100%" />
+  <img src="./assets/hero.svg" width="100%" alt="Hey there, I'm probably doing something right now." />
 </div>
-
--> Hi! I'm Anushka👩🏻‍💻 , a 3rd Year Computer Science Engineering student at New LJ Institute of Engineering, GTU. <br>
--> I'm interested in Edge AI, TinyML, and building efficient, deployable Machine Learning and working on independent research in model compression for microcontrollers.🖥  <br>
--> I enjoy hackathons, fast-paced problem-solving, and turning ideas into working systems. Outside of that, I like building immersive, visual 3D web experiences and interesting visuals, it's become a creative outlet alongside the research.🔭🔬🔎  <br>
--> Always open to research collaborations, internships, and conversations around AI. <br>
- 📩 anushkadabhade134@gmail.com <br>
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anushka-dabhade-936b16349) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/anushkadabhade134) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anushkadabhade134@gmail.com)
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)  ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=for-the-badge&logo=Jupyter&logoColor=white) ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white) ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F61?style=for-the-badge) ![Edge AI](https://img.shields.io/badge/Edge%20AI-00C2A8?style=for-the-badge) ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) ![Model Quantization](https://img.shields.io/badge/Model%20Quantization-2E8B57?style=for-the-badge) ![Model Pruning](https://img.shields.io/badge/Model%20Pruning-556B2F?style=for-the-badge) ![Knowledge Distillation](https://img.shields.io/badge/Knowledge%20Distillation-6A5ACD?style=for-the-badge)
-
 
 <div align="center">
 
-**`🔴 🟡 🟢  anushka@root:~`**
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=39FF14&background=0D1117&center=true&vCenter=true&width=600&height=100&lines=%24+whoami%0A%3E+Anushka+Dabhade;%24+cat+about.md%0A%3E+Builder.+Researcher.+Explorer.%0A%3E+Ahmedabad%2C+India;%24+echo+%24STATUS%0A%3E+Building%2C+shipping%2C+always+learning..." alt="Terminal Typing SVG" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=c8ff3d)](https://linkedin.com/in/anushka-dabhade-936b16349)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=8b5cf6)](mailto:anushkadabhade134@gmail.com)
+[![Pinterest](https://img.shields.io/badge/Pinterest-0D1117?style=for-the-badge&logo=pinterest&logoColor=22d3ee)](https://pinterest.com/anushkadabhade134)
 
 </div>
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------
+```text
+$ cat about.md
+> 3rd-year CSE @ New LJ Institute of Engineering, GTU. Ahmedabad.
+> Independent research: model compression for microcontrollers.
+> Hackathons, fast problem-solving, immersive 3D web builds.
+> Open to research collaborations, internships, and AI conversations.
+```
+
+## 🧊 Skill boxes
+
+<img src="./assets/skills.svg" width="100%" alt="Skills" />
+
+## 📡 Live signals
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/15f56ebc-b014-4dea-a90f-ae5da5ab313f" width="600" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Anushkad134&show_icons=true&hide=contribs&hide_border=true&bg_color=06070b&title_color=c8ff3d&icon_color=8b5cf6&text_color=e8eaf2&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anushkad134&layout=compact&hide_border=true&bg_color=06070b&title_color=c8ff3d&text_color=e8eaf2" />
+
+<img src="https://streak-stats.demolab.com?user=Anushkad134&hide_border=true&background=06070B&ring=8B5CF6&fire=C8FF3D&currStreakLabel=C8FF3D&sideLabels=E8EAF2&currStreakNum=E8EAF2&sideNums=E8EAF2&dates=9AA0BD" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anushkad134&bg_color=06070b&color=c8ff3d&line=8b5cf6&point=22d3ee&area=true&hide_border=true" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Anushkad134&theme=onedark&no-bg=true&no-frame=true&column=7" />
+
 </div>
+
+## 🐍 Contribution snake
+
+Add `.github/workflows/snake.yml` using [Platane/snk](https://github.com/Platane/snk) and point it at a dark palette, then embed:
+
+```md
+![snake](https://raw.githubusercontent.com/Anushkad134/Anushkad134/output/github-contribution-grid-snake-dark.svg)
+```
