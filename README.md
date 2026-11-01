@@ -21,7 +21,7 @@
 
 <img width="760" src="https://github-readme-activity-graph.vercel.app/graph?username=Anushkad134&bg_color=06070b&color=c8ff3d&line=8b5cf6&point=22d3ee&area=true&hide_border=true" />
 
-### [🧊 Enter the interactive 3D skill sphere →](https://anushkad134.github.io/Anushkad134/)
+
 
 <a href="mailto:anushkadabhade134@gmail.com"><img src="./assets/c-mail.svg" width="200" alt="Email" /></a>
 <a href="https://linkedin.com/in/anushka-dabhade-936b16349"><img src="./assets/c-linkedin.svg" width="200" alt="LinkedIn" /></a>
