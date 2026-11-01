@@ -4,13 +4,6 @@
 
 <img src="./assets/now.svg" width="760" alt="What I'm doing right now" />
 
-```md
-## 📅 now.log
-2026-11-01  rebuilding this profile (dark, SVG, 3D)
-2026-10     building 3D scrollable web experiences
-2026-09     benchmarking compression techniques for TinyML
-```
-
 <img src="./assets/skills.svg" width="760" alt="Skill boxes" />
 
 <img src="./assets/skyline.svg" width="760" alt="Commit city" />
